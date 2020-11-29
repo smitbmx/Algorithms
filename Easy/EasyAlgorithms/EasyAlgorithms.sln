@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiagonalDifference", "Diago
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlusMinus", "PlusMinus\PlusMinus.csproj", "{6EC7D464-493F-47D3-961E-3D7BBC030119}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountingValleys", "CountingValleys\CountingValleys.csproj", "{E60CC7DE-EE23-4578-8958-691EAC15AAA8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{6EC7D464-493F-47D3-961E-3D7BBC030119}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6EC7D464-493F-47D3-961E-3D7BBC030119}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6EC7D464-493F-47D3-961E-3D7BBC030119}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E60CC7DE-EE23-4578-8958-691EAC15AAA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E60CC7DE-EE23-4578-8958-691EAC15AAA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E60CC7DE-EE23-4578-8958-691EAC15AAA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E60CC7DE-EE23-4578-8958-691EAC15AAA8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

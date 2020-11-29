@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompareTheTriplets", "Compa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiagonalDifference", "DiagonalDifference\DiagonalDifference.csproj", "{E73BF4C1-3BF1-4204-938D-675D9AEE243D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlusMinus", "PlusMinus\PlusMinus.csproj", "{6EC7D464-493F-47D3-961E-3D7BBC030119}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{E73BF4C1-3BF1-4204-938D-675D9AEE243D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E73BF4C1-3BF1-4204-938D-675D9AEE243D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E73BF4C1-3BF1-4204-938D-675D9AEE243D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EC7D464-493F-47D3-961E-3D7BBC030119}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EC7D464-493F-47D3-961E-3D7BBC030119}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EC7D464-493F-47D3-961E-3D7BBC030119}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EC7D464-493F-47D3-961E-3D7BBC030119}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

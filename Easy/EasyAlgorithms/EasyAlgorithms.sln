@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniMaxSumV2", "MiniMaxSumV
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseArray", "ReverseArray\ReverseArray.csproj", "{98FA4298-9135-4B89-AB73-8B64B1E8963E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BirthdayCakeCandles", "BirthdayCakeCandles\BirthdayCakeCandles.csproj", "{037B7B55-6BC0-4393-B945-01E925994913}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{98FA4298-9135-4B89-AB73-8B64B1E8963E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{98FA4298-9135-4B89-AB73-8B64B1E8963E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{98FA4298-9135-4B89-AB73-8B64B1E8963E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{037B7B55-6BC0-4393-B945-01E925994913}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{037B7B55-6BC0-4393-B945-01E925994913}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{037B7B55-6BC0-4393-B945-01E925994913}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{037B7B55-6BC0-4393-B945-01E925994913}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

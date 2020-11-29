@@ -19,7 +19,7 @@ namespace LogAllPairsOfArray
                 }
             }
 
-            Console.ReadLine();
+            Console.ReadLine(); 
         }
     }
 }

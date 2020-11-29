@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlusMinus", "PlusMinus\Plus
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountingValleys", "CountingValleys\CountingValleys.csproj", "{E60CC7DE-EE23-4578-8958-691EAC15AAA8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RightAlignedStaircase", "RightAlignedStaircase\RightAlignedStaircase.csproj", "{D08E63AF-47A1-4974-B7DE-78847A1CC678}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{E60CC7DE-EE23-4578-8958-691EAC15AAA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E60CC7DE-EE23-4578-8958-691EAC15AAA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E60CC7DE-EE23-4578-8958-691EAC15AAA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D08E63AF-47A1-4974-B7DE-78847A1CC678}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D08E63AF-47A1-4974-B7DE-78847A1CC678}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D08E63AF-47A1-4974-B7DE-78847A1CC678}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D08E63AF-47A1-4974-B7DE-78847A1CC678}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

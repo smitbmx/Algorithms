@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogAllPairsOfArray", "LogAl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleArraySum", "SimpleArraySum\SimpleArraySum.csproj", "{1736988D-5AB4-4CFF-8DC0-4FEE07925793}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompareTheTriplets", "CompareTheTriplets\CompareTheTriplets.csproj", "{668BAFC7-7F0E-4AEC-A3C0-1B3FB0153C40}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{1736988D-5AB4-4CFF-8DC0-4FEE07925793}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1736988D-5AB4-4CFF-8DC0-4FEE07925793}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1736988D-5AB4-4CFF-8DC0-4FEE07925793}.Release|Any CPU.Build.0 = Release|Any CPU
+		{668BAFC7-7F0E-4AEC-A3C0-1B3FB0153C40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{668BAFC7-7F0E-4AEC-A3C0-1B3FB0153C40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{668BAFC7-7F0E-4AEC-A3C0-1B3FB0153C40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{668BAFC7-7F0E-4AEC-A3C0-1B3FB0153C40}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApplesHouseOranges", "Apple
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JumpingOnTheClouds", "JumpingOnTheClouds\JumpingOnTheClouds.csproj", "{03BBBFF8-AEF6-4618-8607-BDBD64A37FF5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SalesByMatch", "SalesByMatch\SalesByMatch.csproj", "{5B0EC247-AF6E-4CD5-BC38-A63E4D7650A4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{03BBBFF8-AEF6-4618-8607-BDBD64A37FF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{03BBBFF8-AEF6-4618-8607-BDBD64A37FF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{03BBBFF8-AEF6-4618-8607-BDBD64A37FF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B0EC247-AF6E-4CD5-BC38-A63E4D7650A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B0EC247-AF6E-4CD5-BC38-A63E4D7650A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B0EC247-AF6E-4CD5-BC38-A63E4D7650A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B0EC247-AF6E-4CD5-BC38-A63E4D7650A4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

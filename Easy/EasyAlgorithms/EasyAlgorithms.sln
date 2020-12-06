@@ -47,6 +47,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GradingStudentsRound", "Gra
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvenOddSplitInput", "EvenOddSplitInput\EvenOddSplitInput.csproj", "{2E7B82DC-8EEA-4F5B-93B6-241B9611F96B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BestAndWorstRecords", "BestAndWorstRecords\BestAndWorstRecords.csproj", "{B2308FC9-8C50-48B3-A82F-D5FD87A69077}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -141,6 +143,10 @@ Global
 		{2E7B82DC-8EEA-4F5B-93B6-241B9611F96B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2E7B82DC-8EEA-4F5B-93B6-241B9611F96B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2E7B82DC-8EEA-4F5B-93B6-241B9611F96B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2308FC9-8C50-48B3-A82F-D5FD87A69077}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2308FC9-8C50-48B3-A82F-D5FD87A69077}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2308FC9-8C50-48B3-A82F-D5FD87A69077}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2308FC9-8C50-48B3-A82F-D5FD87A69077}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

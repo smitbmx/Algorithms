@@ -57,6 +57,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhoneBookDictionary", "Phon
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactorialRecursion", "FactorialRecursion\FactorialRecursion.csproj", "{D54C9F60-8724-479F-88A1-EAAF213D466C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryNumbers", "BinaryNumbers\BinaryNumbers.csproj", "{22F06EC2-DF4F-4B78-82B7-4CF3453B880C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -171,6 +173,10 @@ Global
 		{D54C9F60-8724-479F-88A1-EAAF213D466C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D54C9F60-8724-479F-88A1-EAAF213D466C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D54C9F60-8724-479F-88A1-EAAF213D466C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22F06EC2-DF4F-4B78-82B7-4CF3453B880C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22F06EC2-DF4F-4B78-82B7-4CF3453B880C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22F06EC2-DF4F-4B78-82B7-4CF3453B880C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22F06EC2-DF4F-4B78-82B7-4CF3453B880C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

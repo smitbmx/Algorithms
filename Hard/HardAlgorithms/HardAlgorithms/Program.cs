@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace HardAlgorithms
+namespace HardAlgorithmsTestZ
 {
     class Program
     {

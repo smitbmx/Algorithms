@@ -59,6 +59,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactorialRecursion", "Facto
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryNumbers", "BinaryNumbers\BinaryNumbers.csproj", "{22F06EC2-DF4F-4B78-82B7-4CF3453B880C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hourglass2DArray", "Hourglass2DArray\Hourglass2DArray.csproj", "{60A78A7A-7DB2-488A-93CB-D83A11DB6C84}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InheritanceDay12", "InheritanceDay12\InheritanceDay12.csproj", "{82387B1C-4669-49F2-A80A-612B06234D9C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -177,6 +181,14 @@ Global
 		{22F06EC2-DF4F-4B78-82B7-4CF3453B880C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{22F06EC2-DF4F-4B78-82B7-4CF3453B880C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{22F06EC2-DF4F-4B78-82B7-4CF3453B880C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60A78A7A-7DB2-488A-93CB-D83A11DB6C84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60A78A7A-7DB2-488A-93CB-D83A11DB6C84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60A78A7A-7DB2-488A-93CB-D83A11DB6C84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60A78A7A-7DB2-488A-93CB-D83A11DB6C84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82387B1C-4669-49F2-A80A-612B06234D9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82387B1C-4669-49F2-A80A-612B06234D9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82387B1C-4669-49F2-A80A-612B06234D9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82387B1C-4669-49F2-A80A-612B06234D9C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

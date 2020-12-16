@@ -63,6 +63,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hourglass2DArray", "Hourgla
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InheritanceDay12", "InheritanceDay12\InheritanceDay12.csproj", "{82387B1C-4669-49F2-A80A-612B06234D9C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractClassesDay13", "AbstractClassesDay13\AbstractClassesDay13.csproj", "{85813E4C-3CA4-4D0A-8E31-315952A12820}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -189,6 +191,10 @@ Global
 		{82387B1C-4669-49F2-A80A-612B06234D9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{82387B1C-4669-49F2-A80A-612B06234D9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{82387B1C-4669-49F2-A80A-612B06234D9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85813E4C-3CA4-4D0A-8E31-315952A12820}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85813E4C-3CA4-4D0A-8E31-315952A12820}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85813E4C-3CA4-4D0A-8E31-315952A12820}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85813E4C-3CA4-4D0A-8E31-315952A12820}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

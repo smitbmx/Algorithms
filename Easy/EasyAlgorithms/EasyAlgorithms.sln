@@ -71,6 +71,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScopeDay14V2", "ScopeDay14V
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedListDay15", "LinkedListDay15\LinkedListDay15.csproj", "{C1F7C381-2AC5-4655-9AAA-631D78CFFB04}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExceptionsStrToIntDay16", "ExceptionsStrToIntDay16\ExceptionsStrToIntDay16.csproj", "{6B8668EB-2EEF-4B70-B647-5C16D52E0AFA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -213,6 +215,10 @@ Global
 		{C1F7C381-2AC5-4655-9AAA-631D78CFFB04}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C1F7C381-2AC5-4655-9AAA-631D78CFFB04}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C1F7C381-2AC5-4655-9AAA-631D78CFFB04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B8668EB-2EEF-4B70-B647-5C16D52E0AFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B8668EB-2EEF-4B70-B647-5C16D52E0AFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B8668EB-2EEF-4B70-B647-5C16D52E0AFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B8668EB-2EEF-4B70-B647-5C16D52E0AFA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

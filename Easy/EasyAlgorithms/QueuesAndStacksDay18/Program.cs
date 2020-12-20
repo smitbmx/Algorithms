@@ -6,6 +6,29 @@ namespace QueuesAndStacksDay18
 {
     class Program
     {
+        Stack<char> stack = new Stack<char>();
+        Queue<char> queue = new Queue<char>();
+
+        public void pushCharacter(char c)
+        {
+            stack.Push(c);
+        }
+
+        public char popCharacter()
+        {
+            return stack.Pop();
+        }
+
+        public void enqueueCharacter(char c)
+        {
+            queue.Enqueue(c);
+        }
+
+        public char dequeueCharacter()
+        {
+            return queue.Dequeue();
+        }
+
         static void Main(String[] args)
         {
             // read the string s.

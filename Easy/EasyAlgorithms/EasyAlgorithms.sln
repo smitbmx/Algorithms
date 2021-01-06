@@ -119,6 +119,18 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegExPatternsDBDay28", "Reg
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitwiseANDDay29", "BitwiseANDDay29\BitwiseANDDay29.csproj", "{FF9C0FF4-51E3-4B2B-8CE1-015EDE48D174}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Arrays", "Arrays", "{ABA75599-88FA-444D-8961-94DEBFEDABE8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DictionariesAndHashmaps", "DictionariesAndHashmaps", "{9A62F297-1091-4770-89F5-8743F683C934}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Sorting", "Sorting", "{22B518B8-8A77-42BF-B22D-D7DDE109BF4A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "StringManipulation", "StringManipulation", "{FC9A7152-AAA5-4840-B359-161240FF9CE2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "GreedyAlgorithms", "GreedyAlgorithms", "{51EFC187-7461-4E56-BD68-6D6F87EDB663}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Search", "Search", "{EBB5A395-3C9B-441B-94F5-59B4E6F6610D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU

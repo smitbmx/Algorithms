@@ -139,6 +139,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Graphs", "Graphs", "{F66E30
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Trees", "Trees", "{6ABFE883-E4E0-4BC2-B0FE-2D51DB7D1109}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "LinkedLists", "LinkedLists", "{8171B9FF-98DE-4FA5-BCD9-8DCEB1D90FDE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "RecursionAndBacktracking", "RecursionAndBacktracking", "{224FC0AF-30CE-42C5-827E-97A39B0AFF31}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU

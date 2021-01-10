@@ -143,6 +143,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "LinkedLists", "LinkedLists"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "RecursionAndBacktracking", "RecursionAndBacktracking", "{224FC0AF-30CE-42C5-827E-97A39B0AFF31}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Miscellaneous", "Miscellaneous", "{3BD783EC-9AEF-4E9E-8A56-DEA125804C40}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU

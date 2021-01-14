@@ -7,7 +7,6 @@ namespace NestedLogicDay26
     {
         static void Main(string[] args)
         {
-
             int fine = 0;
 
             string dateReturned = Console.ReadLine();
@@ -21,7 +20,36 @@ namespace NestedLogicDay26
             int dueMonthReturned = Convert.ToInt32(dueDate.Split(' ')[1]);
             int dueYearReturned = Convert.ToInt32(dueDate.Split(' ')[2]);
 
-
+            if (yearReturned == dueYearReturned)
+            {
+                if (monthReturned == dueMonthReturned)
+                {
+                    if (dayReturned == dueDayReturned)
+                    {
+                        fine = 0;
+                    }
+                    else
+                    {
+                        fine = 15 * (dayReturned - dueDayReturned);
+                    }
+                }
+                else if (monthReturned <= dueMonthReturned)
+                {
+                    fine = 0;
+                }
+                else
+                {
+                    fine = 500 * (monthReturned - dueMonthReturned);
+                }
+            }
+            else if (yearReturned < dueYearReturned)
+            {
+                fine = 0;
+            }
+            else
+            {
+                fine = 10000;
+            }
 
             Console.WriteLine(fine);
 

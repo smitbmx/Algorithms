@@ -16,12 +16,10 @@ namespace RegExPatternsDBDay28
 {
     class Solution
     {
-
-
-
         static void Main(string[] args)
         {
             int N = Convert.ToInt32(Console.ReadLine());
+            List<string> names = new List<string>();
 
             for (int NItr = 0; NItr < N; NItr++)
             {
@@ -30,7 +28,21 @@ namespace RegExPatternsDBDay28
                 string firstName = firstNameEmailID[0];
 
                 string emailID = firstNameEmailID[1];
+
+                if (emailID.EndsWith("@gmail.com"))
+                {
+                    names.Add(firstName);
+                }
             }
+
+            names.Sort();
+
+            foreach (var name in names)
+            {
+                Console.WriteLine(name);
+            }
+
+            Console.ReadLine();
         }
     }
 }
